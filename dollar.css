@@ -1,0 +1,107 @@
+body{
+  text-align: center;
+background-color: hsl(204, 43%, 93%);
+font-family: 'Karla', sans-serif;
+
+}
+
+
+h2{color: hsl(179, 62%, 43%);}
+
+
+.topsection{
+  background-color: white;
+  height: 200px;
+  width: 45%;
+  margin: 100px auto 0 auto;
+
+border-top-left-radius: 6px;
+border-top-right-radius: 6px;
+
+}
+
+.mid1{
+background-color: hsl(179, 62%, 43%);
+
+height: 260px;
+width: 305px;
+position: absolute;
+left: 379px;
+border-bottom-left-radius: 6px;
+text-align: left;
+padding-left: 20px;
+}
+
+
+.mid2{
+  background-color: #4cbbb9;
+
+  height: 260px;
+  width: 305px;
+  position: absolute;
+  left: 682px;
+  border-bottom-right-radius: 6px;
+
+
+
+}
+
+.top1{text-align: left;
+  padding-left: 40px;
+  padding-top: 35px;
+
+}
+.top2{text-align: left;
+  padding-left: 40px;
+  color: hsl(71, 73%, 54%);
+
+}
+.top3{text-align: left;
+  padding-left: 40px;
+color: hsl(218, 22%, 67%);
+font-size: 16px;
+
+}
+
+
+.dollar{
+
+display: inline;
+margin-left: 7px;
+padding-left: 12px;
+color: white;
+
+}
+
+.access{padding-left: 20px;
+color: #dbdbdb;}
+
+
+.last{text-align: left;
+line-height: 1.2;
+padding-left: 40px;
+color: #dbdbdb;
+font-weight: lighter;}
+
+
+.ms{padding-top: 20px;
+padding-left: 20px;
+color: white;}
+
+
+
+.lasttop{text-align: left;
+padding-top: 20px;
+padding-left: 40px;
+color: white;}
+
+.signup{padding: 12px 75px;
+background-color: hsl(71, 73%, 54%);
+border-radius: 5px;
+margin-left: 20px;
+position: absolute;
+top: 170px;
+font-size: 18px;
+text-decoration: none;
+color: white;
+}
